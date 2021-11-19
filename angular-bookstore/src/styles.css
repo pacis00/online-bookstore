@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Estonia';
+    src: url(/assets/fonts/Estonia/Estonia-Regular.ttf) format("truetype");
+}
+
+
+body{
+    font-family: 'Estonia';
+}
