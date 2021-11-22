@@ -1,9 +1,2 @@
-@font-face {
-    font-family: 'Estonia';
-    src: url(/assets/fonts/Estonia/Estonia-Regular.ttf) format("truetype");
-}
-
-
-body{
-    font-family: 'Estonia';
-}
+@import "~bootstrap/dist/css/bootstrap.min.css";
+@import "~@fortawesome/fontawesome-free/css/all.min.css";
