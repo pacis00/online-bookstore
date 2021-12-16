@@ -11,5 +11,4 @@ export class Book {
     unitsInStock: number = 0;
     createdOn: Date = new Date ();
     updatedOn: Date = new Date();
-
 }
